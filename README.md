@@ -1,1 +1,2 @@
-# My-Own-Library
+# collisionAlgorithm
+Algorithm to detect collision between two objects
